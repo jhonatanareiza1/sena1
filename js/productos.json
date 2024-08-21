@@ -1,0 +1,396 @@
+[
+
+    {
+        "id": "paisaje01",
+        "titulo": "paisaje 1",
+        "imagen": "../img/1.png",
+        "categoria":{
+            "nombre": "2D",
+            "id": "2d"
+        },
+        "precio": 10000
+    },
+    {
+        "id": "paisaje02",
+        "titulo": "paisaje 2",
+        "imagen": "../img/bosque0000002.png",
+        "categoria":{
+            "nombre": "2d",
+            "id": "2d"
+        },
+        "precio": 10000
+    },
+    {
+        "id": "paisaje03",
+        "titulo": "paisaje 3",
+        "imagen": "../img/season2_00000003.png",
+        "categoria":{
+            "nombre": "2d",
+            "id": "2d"
+        },
+        "precio": 10000
+    },
+    {
+        "id": "paisaje04",
+        "titulo": "paisaje 4",
+        "imagen": "../img/ensayo-escena-200px.png",
+        "categoria":{
+            "nombre": "2d",
+            "id": "2d"
+        },
+        "precio": 10000
+    },
+    {
+        "id": "paisaje05",
+        "titulo": "paisaje 5",
+        "imagen": "../img/JUEGO 1.png",
+        "categoria":{
+            "nombre": "2d",
+            "id": "2d"
+        },
+        "precio": 10000
+    },
+    {
+        "id": "paisaje06",
+        "titulo": "paisaje 6",
+        "imagen": "../img/vidrio.jpg",
+        "categoria":{
+            "nombre": "2d",
+            "id": "2d"
+        },
+        "precio": 10000
+    },
+    {
+        "id": "paisaje07",
+        "titulo": "paisaje 7",
+        "imagen": "../img/teatro.jpg",
+        "categoria":{
+            "nombre": "2d",
+            "id": "2d"
+        },
+        "precio": 10000
+    },
+    {
+        "id": "paisaje08",
+        "titulo": "paisaje 8",
+        "imagen": "../img/imagen3d.png",
+        "categoria":{
+            "nombre": "2d",
+            "id": "2d"
+        },
+        "precio": 10000
+    },
+    {
+        "id": "paisaje09",
+        "titulo": "paisaje 9",
+        "imagen": "../img/un punto de fuga-Recuperado.png",
+        "categoria":{
+            "nombre": "2d",
+            "id": "2d"
+        },
+        "precio": 10000
+    },
+    {
+        "id": "paisaje10",
+        "titulo": "paisaje 10",
+        "imagen": "../img/fondo.jpg",
+        "categoria":{
+            "nombre": "2d",
+            "id": "2d"
+        },
+        "precio": 10000
+    },
+    {
+        "id": "paisaje11",
+        "titulo": "paisaje 11",
+        "imagen": "../img/interior.jpg",
+        "categoria":{
+            "nombre": "2d",
+            "id": "2d"
+        },
+        "precio": 10000
+    },
+    {
+        "id": "paisaje12",
+        "titulo": "paisaje 12",
+        "imagen": "../img/VrayHab_ps_base_FINL.jpg",
+        "categoria":{
+            "nombre": "2d",
+            "id": "2d"
+        },
+        "precio": 10000
+    },
+    {
+        "id": "paisaje13",
+        "titulo": "paisaje 13",
+        "imagen": "../img/imagenfinal001_VRayUnclampedColor.jpg",
+        "categoria":{
+            "nombre": "2d",
+            "id": "2d"
+        },
+        "precio": 10000
+    },
+    {
+        "id": "paisaje14",
+        "titulo": "paisaje 14",
+        "imagen": "../img/005_cam2.jpg",
+        "categoria":{
+            "nombre": "2d",
+            "id": "2d"
+        },
+        "precio": 10000
+    },
+
+    {
+        "id": "arte01",
+        "titulo": "Arte 1",
+        "imagen": "../img/amada-y-yofirmada.png",
+        "categoria":{
+            "nombre": "Arte",
+            "id": "arte"
+        },
+        "precio": 10000
+    },
+    {
+        "id": "arte02",
+        "titulo": "Arte 2",
+        "imagen": "../img/anime 1.png",
+        "categoria":{
+            "nombre": "arte",
+            "id": "arte"
+        },
+        "precio": 10000
+    },
+    {
+        "id": "arte03",
+        "titulo": "Arte 3",
+        "imagen": "../img/crab.jpg",
+        "categoria":{
+            "nombre": "arte",
+            "id": "arte"
+        },
+        "precio": 10000
+    },
+    {
+        "id": "arte04",
+        "titulo": "Arte 4",
+        "imagen": "../img/hulk.jpg",
+        "categoria":{
+            "nombre": "arte",
+            "id": "arte"
+        },
+        "precio": 10000
+    },
+    {
+        "id": "arte05",
+        "titulo": "Arte 5",
+        "imagen": "../img/INFOGRAFIA-CLASICO-297.png",
+        "categoria":{
+            "nombre": "arte",
+            "id": "arte"
+        },
+        "precio": 10000
+    },
+    {
+        "id": "arte06",
+        "titulo": "Arte 6",
+        "imagen": "../img/J&J.png",
+        "categoria":{
+            "nombre": "arte",
+            "id": "arte"
+        },
+        "precio": 10000
+    },
+    {
+        "id": "arte07",
+        "titulo": "Arte 7",
+        "imagen": "../img/j-parte.jpg",
+        "categoria":{
+            "nombre": "arte",
+            "id": "arte"
+        },
+        "precio": 10000
+    },
+    {
+        "id": "arte08",
+        "titulo": "Arte 8",
+        "imagen": "../img/natacha.gif",
+        "categoria":{
+            "nombre": "arte",
+            "id": "arte"
+        },
+        "precio": 10000
+    },
+    {
+        "id": "arte09",
+        "titulo": "Arte 9",
+        "imagen": "../img/medadog.jpg",
+        "categoria":{
+            "nombre": "arte",
+            "id": "arte"
+        },
+        "precio": 10000
+    },
+    {
+        "id": "arte10",
+        "titulo": "Arte 10",
+        "imagen": "../img/niño.jpg",
+        "categoria":{
+            "nombre": "arte",
+            "id": "arte"
+        },
+        "precio": 10000
+    },
+    {
+        "id": "arte11",
+        "titulo": "Arte 11",
+        "imagen": "../img/varios-movimientos.jpg",
+        "categoria":{
+            "nombre": "arte",
+            "id": "arte"
+        },
+        "precio": 10000
+    },
+    {
+        "id": "arte12",
+        "titulo": "Arte 12",
+        "imagen": "../img/mesab3 alta_resolucion.png",
+        "categoria":{
+            "nombre": "arte",
+            "id": "arte"
+        },
+        "precio": 10000
+    },
+    {
+        "id": "arte13",
+        "titulo": "Arte 13",
+        "imagen": "../img/MOSTRO.jpg",
+        "categoria":{
+            "nombre": "arte",
+            "id": "arte"
+        },
+        "precio": 10000
+    },
+    {
+        "id": "arte14",
+        "titulo": "Arte 14",
+        "imagen": "../img/SILVESTRE fINAL.png",
+        "categoria":{
+            "nombre": "arte",
+            "id": "arte"
+        },
+        "precio": 10000
+    },
+    {
+        "id": "arte15",
+        "titulo": "Arte 15",
+        "imagen": "../img/spiderman.jpg",
+        "categoria":{
+            "nombre": "Arte",
+            "id": "arte"
+        },
+        "precio": 10000
+    },
+
+    {
+        "id": "juegos01",
+        "titulo": "juegos 1",
+        "imagen":"../img/mini190px.png",
+        "categoria":{
+            "nombre": "Juegos",
+            "id": "juegos"
+        },
+        "precio": 10000
+    },
+    {
+        "id": "juegos02",
+        "titulo": "juegos 2",
+        "imagen": "../img/Screenshot_2.png",
+        "categoria":{
+            "nombre": "Juegos",
+            "id": "juegos"
+        },
+        "precio": 10000
+    },
+    {
+        "id": "juegos03",
+        "titulo": "juegos 3",
+        "imagen": "../img/Screenshot_3.png",
+        "categoria":{
+            "nombre": "juegos",
+            "id": "juegos"
+        },
+        "precio": 10000
+    },
+    {
+        "id": "juegos04",
+        "titulo": "juegos 4",
+        "imagen": "../img/Screenshot_4.png",
+        "categoria":{
+            "nombre": "juegos",
+            "id": "juegos"
+        },
+        "precio": 10000
+    },
+    {
+        "id": "juegos05",
+        "titulo": "juegos 5",
+        "imagen": "../img/Screenshot_5.png",
+        "categoria":{
+            "nombre": "juegos",
+            "id": "juegos"
+        },
+        "precio": 10000
+    },
+    {
+        "id": "juegos06",
+        "titulo": "juegos 6",
+        "imagen": "../img/Screenshot_8.png",
+        "categoria":{
+            "nombre": "juegos",
+            "id": "juegos"
+        },
+        "precio": 10000
+    },
+    {
+        "id": "juegos07",
+        "titulo": "juegos 7",
+        "imagen": "../img/Screenshot_35.png",
+        "categoria":{
+            "nombre": "juegos",
+            "id": "juegos"
+        },
+        "precio": 10000
+    },
+    {
+        "id": "juegos08",
+        "titulo": "juegos 8",
+        "imagen": "../img/render fin.png",
+        "categoria":{
+            "nombre": "juegos",
+            "id": "juegos"
+        },
+        "precio": 10000
+    },
+    {
+        "id": "juegos09",
+        "titulo": "juegos 9",
+        "imagen": "../img/iPad Mini.png",
+        "categoria":{
+            "nombre": "juegos",
+            "id": "juegos"
+        },
+        "precio": 10000
+    },
+    {
+        "di": "juegos10",
+        "titulo": "juegos 10",
+        "imagen": "../img/vino.jpg",
+        "categoria":{
+            "nombre": "Juegos",
+            "id": "juegos"
+        },
+        "precio": 10000
+    }
+    
+]

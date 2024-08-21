@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Dosis:wght@300;400;700&family=IBM+Plex+Sans:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;1,100;1,200;1,300;1,400;1,500;1,600;1,700&family=Inconsolata:wght@200..900&family=Inter:wght@100..900&family=Open+Sans:wght@300;400;600;800&family=Playfair+Display:ital,wght@0,400..900;1,400..900&family=Poppins:wght@800&family=Roboto+Mono:ital,wght@0,100..700;1,100..700&family=Rubik:wght@300..900&family=Splash&display=swap" rel="stylesheet">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Dosis:wght@300;400;700&family=Inconsolata:wght@200..900&family=Inter:wght@100..900&family=Open+Sans:wght@300;400;600;800&family=Playfair+Display:ital,wght@0,400..900;1,400..900&family=Poppins:wght@800&family=Roboto+Mono:ital,wght@0,100..700;1,100..700&family=Rubik:wght@300..900&family=Splash&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.min.css">
+    <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/toastify-js/src/toastify.min.css">
+    <link rel="stylesheet" href="./css/estilos.css">
+    <title>E-commerces</title>
+</head>
+<body>
+    
+    <div class="wrapper">
+        <header class="headerMovile">
+            <h1 class="logo">Fenix Shop</h1>
+            <button class="abrirMenu">
+                <i class="bi bi-list"></i>
+            </button>
+
+        </header>
+        <aside class="aside">
+            <button class="cerrarMenu">
+                <i class="bi bi-x-circle"></i>
+            </button>
+            <header class="header">
+                <h1 class="logo">Fenix Shop</h1>
+                <img src="" alt="" class="logo">
+            </header>
+            <nav class="barra">
+                <ul class="barrnav">
+                    <li class="btnCarrito">
+                        <a href="index.html" class="btnMenu enlaceCarrito">volver al shop<i class="bi bi-arrow-return-left"></i>
+                        </a>
+                    </li>
+                    <li class="btnCarrito">
+                        <a href="carrito.html" class="btnMenu enlaceCarrito active">Carrito <i class="bi bi-cart4"></i>
+                        </a>
+                    </li>
+                </ul>
+            </nav>
+            <footer class="footer">
+                <p class="txtFooter">Jhonatan Areiza</p>
+                <img src="" alt="" class="logoFooter">
+            </footer>
+        </aside>
+        <main class="main">
+            <h2 class="tituloPpal">Mis Productos escogidos</h2>
+            <div class="contenedor-carrito">
+                <p class="txtCarrito" id="txtCarrito">El carrito esta vacio <i class="bi bi-emoji-frown-fill"></i></p>
+                <div class="productosCarrito disabled" id="productosCarrito">
+                    <div class="productoCarrito">
+                        <!-- esto viene del div creado en carrito.js    -->
+                    </div>
+                </div>
+                <div class="acciones-carro disabled" id="acciones-carro">
+                    <div class="accionesIzquierda">
+                        <button class="accionesVaciar" id="accionesVaciar">Vaciar Carrito</button>
+                    </div>
+                    <div class="accionesDerecha">
+                        <div class="accionesTtal">
+                            <p>Total: </p>
+                            <p id="total">$3000</p>
+                        </div>
+                        <button class="accionesComprar">Comprar Ahora</button>  
+                    </div>
+                    
+                </div>
+                <p class="txtCarritoFin disabled" id="txtCarritoFin">Compra satisfactoriamente realizada <i class="bi bi-box2-heart"></i></p>
+            </div>
+        </main>
+    </div>
+
+    <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/toastify-js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/sweetalert2@11"></script>
+    <script src="./js/carrito.js"></script>
+    <script src="./js/menu.js"></script>
+</body>
+</html>
